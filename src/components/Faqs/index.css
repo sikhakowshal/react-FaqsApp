@@ -1,0 +1,33 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  padding: 40px;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  border: 0px;
+  padding-top: 60px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #cb8805;
+  font-size: 50px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.faqs-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0px;
+  list-style-type: none;
+  width: 90%;
+}
